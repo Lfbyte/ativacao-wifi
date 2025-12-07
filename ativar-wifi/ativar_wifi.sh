@@ -61,6 +61,6 @@ if [[ "$user" = "0" ]]; then
 
 else
 	echo ""
-	echo " EXECUTE COMO ROOT E EXECUTE DENTRO DO DIRETORIO $caminho!"
+	echo " EXECUTE COMO ROOT E EXECUTE DENTRO DO DIRETORIO!"
 	echo ""
 fi
