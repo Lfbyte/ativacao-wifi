@@ -5,6 +5,7 @@
  1) Efetue o clone do repositório
  2) Descompacte o arquivo
  3) Entre no diretório
- 4) Execute com privilégios elevados
+ 4) Execute com privilégios elevados: ativar_wifi.sh
+ 5) Se tudo ocorrer corretamente você irá ver o ícone do wifi disponível em seu gerenciador de conexões.
  
 Caso não consigo ou identifique algum problema ou erro ao tentar executar, deixe o problema descrito na sessão de **_ISSUES_**.
