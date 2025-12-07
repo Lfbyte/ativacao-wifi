@@ -1,8 +1,0 @@
-rtw89pci
-rtw89core
-rtw_8852a
-rtw_8852ae
-rtw_8852b
-rtw_8852be
-rtw_8852c
-rtw_8852ce
